@@ -1,33 +1,23 @@
-# מ-Gems לסקילים
+# מ-Gems לסקילים · אינדקס
 
-הסוכנים שחילקתי בקהילה כ-Gems בג'מיני, ארוזים כסקילים. Gems בג'מיני עוברים ל-Skills ב-17.11.2026, והקבצים כאן עובדים בכל כלי שקורא קובץ SKILL.md.
+הסוכנים שחילקתי בקהילה כ-Gems בג'מיני, ארוזים כסקילים. לכל סוכן ריפו נפרד. הריפו הזה הוא אינדקס בלבד.
 
-מדריך ההמרה המלא, כולל איפה מריצים סקיל עם המנוי שכבר יש לך: https://claude.ai/artifact/UKg2bkoJDCzECgs2C7zSen
-
-## איך משתמשים
-
-1. פותחים את הקישור "הורדה ישירה" של הסוכן שרוצים. הקובץ נפתח כטקסט.
-2. שומרים אותו בשם SKILL.md (שמירה בשם, או העתקה לקובץ חדש).
-3. מעלים לכלי שיש לכם. ב-Claude: Customize ← Skills ← Create skill ← Upload a skill. ב-Gemini Spark: Skills ← Upload.
-
-## הסוכנים
+מדריך ההמרה המלא וערכת הסקילים: https://claude.ai/artifact/UKg2bkoJDCzECgs2C7zSen
 
 | סוכן | מה הוא עושה | GitHub | הורדה ישירה |
 |---|---|---|---|
-| בוט הסופר | מנתח קבלת סופר: הוצאה לפי קטגוריות, ציון תזונתי, רעיונות לבישול | [תיקייה](supermarket-receipt-coach) | [SKILL.md](https://raw.githubusercontent.com/guycoful/gems-to-skills/main/supermarket-receipt-coach/SKILL.md) |
-| מעצב הבית | מנתח תמונת חדר, מציע שלושה כיווני עיצוב ופרומפט להדמיה | [תיקייה](room-designer) | [SKILL.md](https://raw.githubusercontent.com/guycoful/gems-to-skills/main/room-designer/SKILL.md) |
-| בודק דוח שנתי, פנסיה וחסכונות | קורא דוח שנתי שהעליתם ומחזיר ציון, דמי ניהול ובדיקת מקדם מובטח | [תיקייה](pension-report-checker) | [SKILL.md](https://raw.githubusercontent.com/guycoful/gems-to-skills/main/pension-report-checker/SKILL.md) |
-| אבחון מנוע רכב | אבחון ויזואלי של תא מנוע מתמונה, כולל מצב בדיקה לפני קנייה | [תיקייה](car-engine-diagnosis) | [SKILL.md](https://raw.githubusercontent.com/guycoful/gems-to-skills/main/car-engine-diagnosis/SKILL.md) |
-| סטודיו מוצר | הופך תמונת מוצר לתמונת קטלוג ברקע לבן | [תיקייה](product-photo-studio) | [SKILL.md](https://raw.githubusercontent.com/guycoful/gems-to-skills/main/product-photo-studio/SKILL.md) |
-| בודק חוזים | מנתח חוזה, מפרק סעיפים וסיכונים, מפיק משימות ואבני דרך וגאנט | [תיקייה](contract-checker) | [SKILL.md](https://raw.githubusercontent.com/guycoful/gems-to-skills/main/contract-checker/SKILL.md) |
-| מחסום ושבע הרמות (confidence-debrief) | מנטור לבניית ביטחון עצמי דרך עשייה | [ריפו](https://github.com/guycoful/confidence-skill) | [SKILL.md](https://raw.githubusercontent.com/guycoful/confidence-skill/main/SKILL.md) |
+| בוט הסופר | מנתח קבלת סופר: הוצאה לפי קטגוריות, ציון תזונתי ורעיונות לבישול | [הריפו](https://github.com/guycoful/supermarket-receipt-coach-skill) | [SKILL.md](https://raw.githubusercontent.com/guycoful/supermarket-receipt-coach-skill/main/SKILL.md) |
+| מעצב הבית | מנתח תמונת חדר, שלושה כיווני עיצוב ופרומפט להדמיה | [הריפו](https://github.com/guycoful/room-designer-skill) | [SKILL.md](https://raw.githubusercontent.com/guycoful/room-designer-skill/main/SKILL.md) |
+| בודק דוח שנתי, פנסיה וחסכונות | ציון, דמי ניהול ובדיקת מקדם מובטח לדוח שהעליתם, עם 10 קבצי ידע | [הריפו](https://github.com/guycoful/pension-report-checker-skill) | [SKILL.md](https://raw.githubusercontent.com/guycoful/pension-report-checker-skill/main/SKILL.md) |
+| אבחון מנוע רכב | אבחון ויזואלי של תא מנוע, כולל בדיקה לפני קנייה | [הריפו](https://github.com/guycoful/car-engine-diagnosis-skill) | [SKILL.md](https://raw.githubusercontent.com/guycoful/car-engine-diagnosis-skill/main/SKILL.md) |
+| סטודיו מוצר | תמונת מוצר לקטלוג ברקע לבן | [הריפו](https://github.com/guycoful/product-photo-studio-skill) | [SKILL.md](https://raw.githubusercontent.com/guycoful/product-photo-studio-skill/main/SKILL.md) |
+| בודק חוזים | ניתוח חוזה, משימות, אבני דרך וגאנט | [הריפו](https://github.com/guycoful/contract-checker-skill) | [SKILL.md](https://raw.githubusercontent.com/guycoful/contract-checker-skill/main/SKILL.md) |
+| מחסום ושבע הרמות | מנטור לבניית ביטחון עצמי דרך עשייה | [הריפו](https://github.com/guycoful/confidence-skill) | [SKILL.md](https://raw.githubusercontent.com/guycoful/confidence-skill/main/SKILL.md) |
 
-בקרוב: סוכן הקלוריות בגרסה כללית.
+## איך משתמשים
 
-## מה חשוב לדעת
+1. פותחים את "הורדה ישירה" של הסוכן. הקובץ נפתח כטקסט.
+2. שומרים אותו בשם SKILL.md בתיקייה בשם הסוכן.
+3. מעלים לכלי שיש לכם. ב-Claude: Customize, Skills, Create skill, Upload a skill. ב-Gemini Spark: Skills, Upload.
 
-- ההוראות הועתקו מהג'ם המקורי מילה במילה. ב-Gem הן רצו על כל הודעה, ובסקיל הן נטענות כשהכלי מזהה בקשה מתאימה.
-- סוכן הפנסיה נשען על עשרה קבצי ידע. הרשימה ב-`pension-report-checker/references/README.md`. בלעדיהם הוא קורא את הדוח שהעליתם אבל לא משווה לשוק.
-- מעצב הבית וסוכן הפנסיה כתובים עם הפניות לג'מיני (כותבים פרומפט להדמיה ב-Gemini, בחירת מודל Pro). הם עובדים גם בכלי אחר, והשורות האלה פשוט לא רלוונטיות שם.
-- סטודיו מוצר הוא פרומפט לעריכת תמונה, ולכן דורש כלי שעורך תמונות.
-- קבצי GitHub ופעולות מיוחדות של הכלי המקורי לא עוברים לסקיל.
+בקרוב: סוכן הקלוריות בגרסה כללית, ועוד Gems.

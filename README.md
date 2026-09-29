@@ -19,9 +19,10 @@
 | בודק דוח שנתי, פנסיה וחסכונות | קורא דוח שנתי שהעליתם ומחזיר ציון, דמי ניהול ובדיקת מקדם מובטח | [תיקייה](pension-report-checker) | [SKILL.md](https://raw.githubusercontent.com/guycoful/gems-to-skills/main/pension-report-checker/SKILL.md) |
 | אבחון מנוע רכב | אבחון ויזואלי של תא מנוע מתמונה, כולל מצב בדיקה לפני קנייה | [תיקייה](car-engine-diagnosis) | [SKILL.md](https://raw.githubusercontent.com/guycoful/gems-to-skills/main/car-engine-diagnosis/SKILL.md) |
 | סטודיו מוצר | הופך תמונת מוצר לתמונת קטלוג ברקע לבן | [תיקייה](product-photo-studio) | [SKILL.md](https://raw.githubusercontent.com/guycoful/gems-to-skills/main/product-photo-studio/SKILL.md) |
+| בודק חוזים | מנתח חוזה, מפרק סעיפים וסיכונים, מפיק משימות ואבני דרך וגאנט | [תיקייה](contract-checker) | [SKILL.md](https://raw.githubusercontent.com/guycoful/gems-to-skills/main/contract-checker/SKILL.md) |
 | מחסום ושבע הרמות (confidence-debrief) | מנטור לבניית ביטחון עצמי דרך עשייה | [ריפו](https://github.com/guycoful/confidence-skill) | [SKILL.md](https://raw.githubusercontent.com/guycoful/confidence-skill/main/SKILL.md) |
 
-בקרוב: בודק חוזים, ואפליקציית הקלוריות.
+בקרוב: סוכן הקלוריות בגרסה כללית.
 
 ## מה חשוב לדעת
 

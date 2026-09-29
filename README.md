@@ -12,6 +12,7 @@
 | אבחון מנוע רכב | אבחון ויזואלי של תא מנוע, כולל בדיקה לפני קנייה | [הריפו](https://github.com/guycoful/car-engine-diagnosis-skill) | [SKILL.md](https://raw.githubusercontent.com/guycoful/car-engine-diagnosis-skill/main/SKILL.md) |
 | סטודיו מוצר | תמונת מוצר לקטלוג ברקע לבן | [הריפו](https://github.com/guycoful/product-photo-studio-skill) | [SKILL.md](https://raw.githubusercontent.com/guycoful/product-photo-studio-skill/main/SKILL.md) |
 | בודק חוזים | ניתוח חוזה, משימות, אבני דרך וגאנט | [הריפו](https://github.com/guycoful/contract-checker-skill) | [SKILL.md](https://raw.githubusercontent.com/guycoful/contract-checker-skill/main/SKILL.md) |
+| סוכן תזונה וחיטוב | מאמן תזונה קשוח עם שאלון פתיחה ופסיקה יומית מחושבת בקוד | [הריפו](https://github.com/guycoful/fit-agent-skill) | [SKILL.md](https://raw.githubusercontent.com/guycoful/fit-agent-skill/main/SKILL.md) |
 | מחסום ושבע הרמות | מנטור לבניית ביטחון עצמי דרך עשייה | [הריפו](https://github.com/guycoful/confidence-skill) | [SKILL.md](https://raw.githubusercontent.com/guycoful/confidence-skill/main/SKILL.md) |
 
 ## איך משתמשים
@@ -20,4 +21,4 @@
 2. שומרים אותו בשם SKILL.md בתיקייה בשם הסוכן.
 3. מעלים לכלי שיש לכם. ב-Claude: Customize, Skills, Create skill, Upload a skill. ב-Gemini Spark: Skills, Upload.
 
-בקרוב: סוכן הקלוריות בגרסה כללית, ועוד Gems.
+בקרוב: עוד Gems.
